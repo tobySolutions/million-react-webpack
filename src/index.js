@@ -17,7 +17,7 @@ const App = () => {
 // });
 
 const OmoOlogo = () => {
-  return <p style={{ color: "green", fontSize: "30px" }}>OmoOlogo React Component</p>;
+  return <p style={{ color: "green", fontSize: "30px" }}>OmoOlogo React Component demo</p>;
 };
 
 ReactDOM.render(<App />, document.getElementById("root"));
